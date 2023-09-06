@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     color: #3c373b;
+    
 }
 body{
     margin: 0 auto;
@@ -62,7 +63,7 @@ justify-content: space-around;
  .boxes .box{
 margin: 10px;
 padding: 10px;
-height: 100px;
+height: 130px;
 width: 15%;
 font-size: 20px;
 }
@@ -100,7 +101,8 @@ background-color: purple;
 .boxes .box p{
     align-items: center;
     color: white;
-    margin-left: 20PX;
+    margin: 30PX;
+    padding: 2px;
 }
 body .section5{
     display: flex;
