@@ -136,7 +136,8 @@ body section button{
 }
 hr{
     margin:20px;
-    text-decoration:dotted;
+    border-top: dotted;
+    color: #3c373b;
 }
 .write{
     margin-right:50px;
