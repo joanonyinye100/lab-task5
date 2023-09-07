@@ -18,12 +18,12 @@ section header{
     justify-content: space-evenly;
 }
 body section header .logo{
-width: 40%;
+width: 30%;
 margin: 8px;
 padding: 7px;
 }
 body section header nav{
-width: 60%;
+width: 70%;
 display: inline;
 }
 body section header nav li{
@@ -109,24 +109,10 @@ body .section5{
     margin: 20px;
     padding: 20px;
 }
-body section footer {
-    background-color: black;
-    width: 100%;
-    height: 100px;
-    
-}
-body section footer nav li{
-    display: inline-block;
-    justify-content: space-around;
-    padding: 20px;
-    margin: 15px;
-}
-body section footer nav  li a{
-    color: white;
-    text-decoration: none;
-}
+
 .about-working{
     display: flex;
+    margin-right: 20px;
 }
 body section .office{
     display: flex;
@@ -145,4 +131,21 @@ hr{
 }
 .write{
     margin-right:50px;
+}
+
+body section footer {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    
+}
+body section footer nav li{
+    display: inline-block;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 15px;
+}
+body section footer nav  li a{
+    color: white;
+    text-decoration: none;
 }
