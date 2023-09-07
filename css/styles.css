@@ -109,6 +109,9 @@ body .section5{
     margin: 20px;
     padding: 20px;
 }
+body section .bold{
+    font-size: 19px;
+}
 
 .about-working{
     display: flex;
